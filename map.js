@@ -8,7 +8,7 @@ console.log(doubledNumbers);
 
 //--------------------------------------------------------------------------------------------
 
-var animalArray = ["Dogs","People that enjoy watching Mango play Super Smash","Lakers Fans"];
+var animalArray = ["Dogs","Fortnite players","Lakers Fans"];
 
 var sentence = animalArray.map(function(i){
     return "My favorite animals are " + i;
